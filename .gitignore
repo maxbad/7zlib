@@ -9,3 +9,7 @@ Release/
 *.opensdf
 *.sdf
 *.md~
+
+.vs/
+Bin/
+
